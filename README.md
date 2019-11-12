@@ -13,11 +13,10 @@
 
 ## Usage
 
-1. If you are enrolled the GitHub classroom for the seminar - accept the invite for your first assignment.
-2. Open a terminal session in the root of the repository and type `npm install`  and hit return ↩ to install all dependencies.
-3. Type `npm start` and hit return ↩ to start the reload server.
-4. Start hacking
-5. When you are done and enrolled in the classroom, use the classroom to submit your assignment.
+1. Open a terminal session in the root of the repository and type `npm install`  and hit return ↩ to install all dependencies.
+2. Type `npm start` and hit return ↩ to start the reload server.
+3. Start hacking
+4. When you are done and enrolled in the classroom, use the classroom to submit your assignment.
 
 ## Contributing
 
