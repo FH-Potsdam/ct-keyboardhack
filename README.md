@@ -2,7 +2,6 @@
 
 > Starter kit for the seminar "Creative Technologists - Tracing the City" @ University of Applied Sciences Potsdam (Germany) winter semester 2019/2020 by Fabian Morón Zirfas
 
-
 ## Assignment
 
 1. Hack your keyboard
@@ -14,7 +13,7 @@
 
 ## Usage
 
-1. If you are enrolled the GitHub classroom for the seminar - accept the invite for your first assignment. 
+1. If you are enrolled the GitHub classroom for the seminar - accept the invite for your first assignment.
 2. Open a terminal session in the root of the repository and type `npm install`  and hit return ↩ to install all dependencies.
 3. Type `npm start` and hit return ↩ to start the reload server.
 4. Start hacking
